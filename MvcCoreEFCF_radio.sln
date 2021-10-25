@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcCoreEFCF_radio", "MvcCoreEFCF_radio\MvcCoreEFCF_radio.csproj", "{5F246E54-8384-48A7-A300-54955D813893}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F246E54-8384-48A7-A300-54955D813893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F246E54-8384-48A7-A300-54955D813893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F246E54-8384-48A7-A300-54955D813893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F246E54-8384-48A7-A300-54955D813893}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3C5E629-47B8-411F-BF31-D2B1EFB25ED0}
+	EndGlobalSection
+EndGlobal
