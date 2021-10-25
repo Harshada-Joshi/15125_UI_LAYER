@@ -1,0 +1,15 @@
+C:\Users\Harshda15125\source\repos\Type_Collection_demo\Type_Collection_demo\bin\Debug\net5.0\Type_Collection_demo.exe
+C:\Users\Harshda15125\source\repos\Type_Collection_demo\Type_Collection_demo\bin\Debug\net5.0\Type_Collection_demo.deps.json
+C:\Users\Harshda15125\source\repos\Type_Collection_demo\Type_Collection_demo\bin\Debug\net5.0\Type_Collection_demo.runtimeconfig.json
+C:\Users\Harshda15125\source\repos\Type_Collection_demo\Type_Collection_demo\bin\Debug\net5.0\Type_Collection_demo.runtimeconfig.dev.json
+C:\Users\Harshda15125\source\repos\Type_Collection_demo\Type_Collection_demo\bin\Debug\net5.0\Type_Collection_demo.dll
+C:\Users\Harshda15125\source\repos\Type_Collection_demo\Type_Collection_demo\bin\Debug\net5.0\ref\Type_Collection_demo.dll
+C:\Users\Harshda15125\source\repos\Type_Collection_demo\Type_Collection_demo\bin\Debug\net5.0\Type_Collection_demo.pdb
+C:\Users\Harshda15125\source\repos\Type_Collection_demo\Type_Collection_demo\obj\Debug\net5.0\Type_Collection_demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harshda15125\source\repos\Type_Collection_demo\Type_Collection_demo\obj\Debug\net5.0\Type_Collection_demo.AssemblyInfoInputs.cache
+C:\Users\Harshda15125\source\repos\Type_Collection_demo\Type_Collection_demo\obj\Debug\net5.0\Type_Collection_demo.AssemblyInfo.cs
+C:\Users\Harshda15125\source\repos\Type_Collection_demo\Type_Collection_demo\obj\Debug\net5.0\Type_Collection_demo.csproj.CoreCompileInputs.cache
+C:\Users\Harshda15125\source\repos\Type_Collection_demo\Type_Collection_demo\obj\Debug\net5.0\Type_Collection_demo.dll
+C:\Users\Harshda15125\source\repos\Type_Collection_demo\Type_Collection_demo\obj\Debug\net5.0\ref\Type_Collection_demo.dll
+C:\Users\Harshda15125\source\repos\Type_Collection_demo\Type_Collection_demo\obj\Debug\net5.0\Type_Collection_demo.pdb
+C:\Users\Harshda15125\source\repos\Type_Collection_demo\Type_Collection_demo\obj\Debug\net5.0\Type_Collection_demo.genruntimeconfig.cache

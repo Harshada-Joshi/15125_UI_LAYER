@@ -1,0 +1,10 @@
+C:\Users\Harshda15125\source\repos\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\Harshda15125\source\repos\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\Harshda15125\source\repos\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\Harshda15125\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Harshda15125\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Harshda15125\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Harshda15125\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\Harshda15125\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\Harshda15125\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.lblMsg.resources
+C:\Users\Harshda15125\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.btnMultiplication.resources
