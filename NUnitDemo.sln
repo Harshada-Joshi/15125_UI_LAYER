@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitDemoLib", "NUnitDemoLib\NUnitDemoLib.csproj", "{719130B6-A2D2-4D91-B7F8-F4F1BE558069}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NunitTestLib", "NunitTestLib\NunitTestLib.csproj", "{129E5774-0F7B-4782-81CF-F76DA1EC675F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{719130B6-A2D2-4D91-B7F8-F4F1BE558069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{719130B6-A2D2-4D91-B7F8-F4F1BE558069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{719130B6-A2D2-4D91-B7F8-F4F1BE558069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{719130B6-A2D2-4D91-B7F8-F4F1BE558069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{129E5774-0F7B-4782-81CF-F76DA1EC675F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{129E5774-0F7B-4782-81CF-F76DA1EC675F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{129E5774-0F7B-4782-81CF-F76DA1EC675F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{129E5774-0F7B-4782-81CF-F76DA1EC675F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BDBC919-BA4D-4085-A89B-9CB15F713010}
+	EndGlobalSection
+EndGlobal
