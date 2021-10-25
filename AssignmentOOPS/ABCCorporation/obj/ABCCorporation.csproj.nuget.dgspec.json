@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Harshda15125\\source\\repos\\AssignmentOOPS\\ABCCorporation\\ABCCorporation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Harshda15125\\source\\repos\\AssignmentOOPS\\ABCCorporation\\ABCCorporation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Harshda15125\\source\\repos\\AssignmentOOPS\\ABCCorporation\\ABCCorporation.csproj",
+        "projectName": "ABCCorporation",
+        "projectPath": "C:\\Users\\Harshda15125\\source\\repos\\AssignmentOOPS\\ABCCorporation\\ABCCorporation.csproj",
+        "packagesPath": "C:\\Users\\Harshda15125\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Harshda15125\\source\\repos\\AssignmentOOPS\\ABCCorporation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Harshda15125\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Harshda15125\\source\\repos\\AssignmentOOPS\\ARLibrary\\ARLibrary.csproj": {
+                "projectPath": "C:\\Users\\Harshda15125\\source\\repos\\AssignmentOOPS\\ARLibrary\\ARLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Harshda15125\\source\\repos\\AssignmentOOPS\\ARLibrary\\ARLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Harshda15125\\source\\repos\\AssignmentOOPS\\ARLibrary\\ARLibrary.csproj",
+        "projectName": "ARLibrary",
+        "projectPath": "C:\\Users\\Harshda15125\\source\\repos\\AssignmentOOPS\\ARLibrary\\ARLibrary.csproj",
+        "packagesPath": "C:\\Users\\Harshda15125\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Harshda15125\\source\\repos\\AssignmentOOPS\\ARLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Harshda15125\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

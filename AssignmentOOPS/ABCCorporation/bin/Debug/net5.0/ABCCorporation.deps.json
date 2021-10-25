@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ABCCorporation/1.0.0": {
+        "dependencies": {
+          "ARLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ABCCorporation.dll": {}
+        }
+      },
+      "ARLibrary/1.0.0": {
+        "runtime": {
+          "ARLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ABCCorporation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ARLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
